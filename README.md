@@ -23,4 +23,4 @@
 2、在该UI节点下创建一个空的特效根节点。\
 3、在空的根节点下创建一个特效节点（空节点），挂载 UIParticleSystem.cs 脚本，此时 ParticleSystem 会自动被挂载上。\
 4、创建材质球，使用 "17zuoye/UI Particle Addtive" shader，并给材质球附上对应贴图后拖到 UIParticleSystem.cs 的material的字段上。\
-5、特效人员开始制作特效并保存成预制放到特定文件夹内供程序人员使用。
+5、特效人员开始制作特效并保存成预制放到特定文件夹内供程序人员使用
